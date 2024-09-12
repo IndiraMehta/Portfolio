@@ -502,7 +502,7 @@ header {
   }
 }
 
-@media (orientation: landscape) and (max-height: 800px) {
+@media (orientation: landscape) and (max-height: 500px) {
   .header {
     height: 90vmax;
   }
